@@ -4,7 +4,7 @@ I'm a Software Engineering student at the University of Ottawa
 
 - 🔭 I’m currently working on web development for Sahrouj 
 
-- 🌱 I’m currently learning **Java**, **HTML**, **CSS**, and I'm always looking to learn new things!
+- 🌱 I’m currently learning **REACT**, **RUST**, and I'm always looking to learn new things!
 
 - 🤝 I’m looking for **Summer 2023 internship opportunities**
 
