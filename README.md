@@ -8,7 +8,7 @@ I'm a Software Engineering student at the University of Ottawa
 
 - 🤝 I’m looking for **Summer 2023 internship opportunities**
 
-- 👨‍💻 All of my projects are available on [my website](https://ahmadsobohhh.github.io/Website) as well as [my resume](https://ahmadsobohhh.github.io/Website)
+- 👨‍💻 All of my projects are available on [my website](https://ahmadsobohhh.github.io/Website)
 
 - 💬 Ask me about anything related to tech
 
