@@ -6,7 +6,7 @@ I'm a Software Engineering student at the University of Ottawa
 
 - 🌱 I’m currently learning **REACT**, **RUST**, and I'm always looking to learn new things!
 
-- 🤝 I’m looking for **Summer 2023 internship opportunities**
+- 🤝 I’m looking for **Fall 2024 internship opportunities**
 
 - 👨‍💻 All of my projects are available on [my website](https://ahmadsobohhh.github.io/Website)
 
