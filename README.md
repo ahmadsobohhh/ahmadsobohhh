@@ -2,7 +2,7 @@
 
 I'm a Software Engineering student at the University of Ottawa
 
-- 🔭 I’m currently working on web development for Sahrouj 
+- 🔭 I’m currently working at Ford Motor Company
 
 - 🌱 I’m currently learning **REACT**, **RUST**, and I'm always looking to learn new things!
 
