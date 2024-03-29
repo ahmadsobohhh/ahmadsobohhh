@@ -24,8 +24,5 @@ I'm a Software Engineering student at the University of Ottawa
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmadsobohhh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsobohhh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ahmadsobohhh&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ahmadsbooh&label=Profile%20Views&color=6&icon=1&pretty=false)](https://visitcount.itsvg.in)
