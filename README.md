@@ -4,11 +4,11 @@ I'm a Software Engineering student at the University of Ottawa
 
 - 🔭 I’m currently working at Ford Motor Company
 
-- 🌱 I’m currently learning **RUST** and I'm always looking to learn new things!
+- 🌱 I’m currently learning **Systemverilog** and I'm always looking to learn new things!
 
 - 🤝 I’m looking for **Summer 2025 internship opportunities**
 
-- 👨‍💻 All of my projects are available on [my website](https://ahmadsobohhh.github.io/ahmadsoboh.org/)
+- 👨‍💻 My resume is available on [my website](https://ahmadsobohhh.github.io/ahmadsoboh.org/)
 
 - 💬 Ask me about anything related to tech
 
