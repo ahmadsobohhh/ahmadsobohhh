@@ -2,7 +2,7 @@
 
 I'm a Software Engineering student at the University of Ottawa
 
-- 🔭 I’m currently working at Ciena!
+- 🔭 I’m currently looking for a Summmer 2026 Internship!
 
 - 🌱 I’m currently learning **Systemverilog** and I'm always looking to learn new things!
 
