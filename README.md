@@ -13,7 +13,7 @@ I'm a Software Engineering student at the University of Ottawa
 - 💬 Ask me about anything related to tech
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-soboh-3a2602211/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-soboh-3a2602211/)
 
 ## 💻 Skills
 
