@@ -6,8 +6,6 @@ I'm a Software Engineering student at the University of Ottawa
 
 - 🌱 I’m currently learning **RubyOnRails** and I'm always looking to learn new things!
 
-- 🤝 I’m looking for **Summer 2026 internship opportunities**
-
 - 👨‍💻 My resume is available on [my website](https://ahmadsoboh.org/)
 
 - 💬 Ask me about anything related to tech
