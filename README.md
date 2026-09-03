@@ -2,7 +2,7 @@
 
 I'm a Software Engineering student at the University of Ottawa
 
-- 🔭 I’m currently looking for a Summmer 2026 Internship!
+- 🔭 I’m currently looking for a Summmer 2027 Internship!
 
 - 🌱 I’m currently learning **RubyOnRails** and I'm always looking to learn new things!
 
