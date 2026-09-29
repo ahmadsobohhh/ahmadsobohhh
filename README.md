@@ -1,6 +1,3 @@
-
-# 💫 About Me
-
 Hey, I'm **Ahmad** 👋
 
 I'm a Software Engineering student interested in **AI/ML, systems, backend development, and building software that solves real problems**.
