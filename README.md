@@ -1,4 +1,4 @@
-```md
+
 # 💫 About Me
 
 Hey, I'm **Ahmad** 👋
@@ -30,4 +30,3 @@ I'm a Software Engineering student interested in **AI/ML, systems, backend devel
 ---
 
 ![](https://komarev.com/ghpvc/?username=ahmadsobohhh&style=flat-square)
-```
