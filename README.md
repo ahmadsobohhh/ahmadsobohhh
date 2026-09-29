@@ -2,11 +2,9 @@
 
 I'm a Software Engineering student interested in building software that solves real problems.
 
-🫀 I'm currently building **HeartAI**, an AI-powered project inspired by my own experience growing up with a congenital heart defect. The goal is to use medical imaging and machine learning to help reconstruct and analyze the heart in 3D, and eventually train a model to detect heart defects.
+🫀 I'm currently building **HeartAI**.
 
 🤖 I'm currently learning more about **machine learning, computer vision, PyTorch, and applied AI**.
-
-🌱 I'm looking to contribute to **open-source projects**, especially in AI, developer tooling, infrastructure, and systems.
 
 💻 I've worked across **networking, embedded software, ASIC verification, test automation, and full-stack development**.
 
