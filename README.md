@@ -1,6 +1,6 @@
 # Hey, I'm **Ahmad** 👋
 
-I'm a Software Engineering student interested in **AI/ML, systems, backend development, and building software that solves real problems**.
+I'm a Software Engineering student interested in building software that solves real problems.
 
 🫀 I'm currently building **HeartAI**, an AI-powered project inspired by my own experience growing up with a congenital heart defect. The goal is to use medical imaging and machine learning to help reconstruct and analyze the heart in 3D, and eventually train a model to detect heart defects.
 
