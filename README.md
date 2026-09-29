@@ -19,10 +19,4 @@ I'm a Software Engineering student interested in **AI/ML, systems, backend devel
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadsoboh/)
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=ahmadsobohhh&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
----
-
 ![](https://komarev.com/ghpvc/?username=ahmadsobohhh&style=flat-square)
