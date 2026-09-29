@@ -6,9 +6,9 @@ I'm a Software Engineering student interested in building software that solves r
 
 🤖 I'm currently learning more about **machine learning, computer vision, PyTorch, and applied AI**.
 
-💻 I've worked across **networking, embedded software, ASIC verification, test automation, and full-stack development**.
+💻 I've worked across **networking, vehicle software, ASIC Design & Verification, test automation, and full-stack development**.
 
-💬 Feel free to ask me about **software engineering, internships, AI/ML, C++, Python, networking, or anything I'm building**.
+💬 I've worked at Nokia, Ciena, and Ford.
 
 ## 🌐 Connect With Me
 
