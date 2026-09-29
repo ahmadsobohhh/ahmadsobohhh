@@ -23,8 +23,6 @@ I'm a Software Engineering student interested in **AI/ML, systems, backend devel
 
 ![](https://github-readme-stats.shion.dev/api?username=ahmadsobohhh&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ahmadsobohhh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 ---
 
 ![](https://komarev.com/ghpvc/?username=ahmadsobohhh&style=flat-square)
