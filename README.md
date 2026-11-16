@@ -8,7 +8,7 @@ I'm a Software Engineering student interested in building software that solves r
 
 💻 I've worked across **networking, vehicle software, ASIC Design & Verification, test automation, and full-stack development**.
 
-💬 I've worked at Nokia, Ciena, and Ford.
+💬 I've worked at Nokia, Ciena, Ford, and will be heading to Tesla for Winter 2027.
 
 ## 🌐 Connect With Me
 
